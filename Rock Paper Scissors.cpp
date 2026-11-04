@@ -1,10 +1,3 @@
-/*
-    Project Title : Rock Paper Scissors Game
-    Student Name  : Shivam
-    Student ID    : 25BCA20007
-    Language      : C++
-*/
-
 #include <iostream>
 #include <string>
 #include <cstdlib>
